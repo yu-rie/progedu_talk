@@ -78,5 +78,5 @@ ___
 
 ___
 
-[1]:https://www.nnn.ed.nico/lessons/482531138
-[2]:https://www.nnn.ed.nico/lessons/482531180
+[1]:https://www.nnn.ed.nico/lessons/482531138{:target="_blank"}
+[2]:https://www.nnn.ed.nico/lessons/482531180{:target="_blank"}

@@ -2,7 +2,7 @@
 
 ___
 <!-- 第1回 -->
-#### [第１回 ゲスト：折原ダビデ竜先生][1]
+#### [第１回 ゲスト：折原ダビデ竜先生][1]{:target="_blank"}
   
 <p>
   
@@ -34,7 +34,7 @@ ___
 ___
 
 <!-- 第２回 -->
-#### [第２回 ゲスト：津野 貴大（labeneko) 先生][2]
+#### [第２回 ゲスト：津野 貴大（labeneko) 先生][2]{:target="_blank"}
   
 <p>
   
@@ -78,5 +78,5 @@ ___
 
 ___
 
-[1]:https://www.nnn.ed.nico/lessons/482531138{:target="_blank"}
-[2]:https://www.nnn.ed.nico/lessons/482531180{:target="_blank"}
+[1]:https://www.nnn.ed.nico/lessons/482531138
+[2]:https://www.nnn.ed.nico/lessons/482531180

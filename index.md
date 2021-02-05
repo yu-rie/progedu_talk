@@ -71,7 +71,7 @@ ___
 <details><summary>フリータイム</summary>
   <p>
       
-[００:５４:３８] Q◯itaとZe◯n、どちらが優位ですか？笑</p>
+[00:54:38] Q◯itaとZe◯n、どちらが優位ですか？笑</p>
 </details>
 
 <!-- 動画 URL -->

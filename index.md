@@ -96,7 +96,6 @@ ___
 <p>[01:00:13] キーボードに飲み物こぼしたりしますか？</p>
 
 </details>
-　　　　　
 <details><summary>フリータイム</summary>
   
 <p>

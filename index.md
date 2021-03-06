@@ -16,7 +16,7 @@ ___
 [00:14:57] yarn init</p>
 <p>[00:16:30] yarn add</p>
 <p>[00:21:03] yarn install</p>
-</details>
+</details><p></p>
 
 <p>
 
@@ -54,7 +54,7 @@ ___
 <p>[01:04:30] scalaの魅力はどんなところですか？？</p>
 <p>[01:05:10] laravelはrailsに似ているのですか？</p>
 <p>[01:05:22] DBやGit管理に便利なツールってありますか？</p>
-</details>
+</details><p></p>
 
 
 ___
@@ -97,6 +97,7 @@ ___
 <p>[01:00:13] キーボードに飲み物こぼしたりしますか？</p>
 
 </details><p></p>
+
 <details><summary>フリータイム</summary>
   
 <p>

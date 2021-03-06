@@ -98,7 +98,7 @@ ___
 
 </details><p></p>
 
-<details><summary>フリータイム</summary>
+<details><summary>フリータイム</summary><p></p>
   
 <p>
       

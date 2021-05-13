@@ -106,8 +106,13 @@ ___
 <p>[01:01:35] Vue.jsはどのように習得されましたか？</p>
 </details><p></p>
 
+<!-- 第5回 -->
+#### [第5回 ゲスト：津野 貴大（labeneko) 先生][5]
+
+
 <!-- 動画 URL -->
 [1]:https://www.nnn.ed.nico/lessons/482531138
 [2]:https://www.nnn.ed.nico/lessons/482531180
 [3]:https://www.nnn.ed.nico/lessons/482531200
 [4]:https://www.nnn.ed.nico/lessons/482531201
+[5]:https://www.nnn.ed.nico/lessons/482531574

@@ -170,7 +170,7 @@ ___
 <p>
   
 [00:05:36] あなたのいいところ診断 アレンジしてみた（インスト）</p>
-<details><summary>[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.<a/></summary><p></p>
+<details><summary>[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.</a></summary><p></p>
   <p>
     
   [00:11:09] 好きなレイアウトにしてみた（Figma の紹介）</p>

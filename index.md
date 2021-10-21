@@ -9,7 +9,7 @@ ___
 [00:08:15] 授業に追いつけていないので、コースの重要なポイントをピックアップしていただけたらうれしいです。
 </p> 
 
-<details><summary>[00:12:25] yarn のつかいどころ（init やら add やらの使い分けも）がよく分からないまま写経だけしてる。</summary><p></p>
+<details><summary>　▼[00:12:25] yarn のつかいどころ（init やら add やらの使い分けも）がよく分からないまま写経だけしてる。</summary><p></p>
 
 <p>
 
@@ -36,7 +36,7 @@ ___
 <p>[00:38:30] Git を使った GitHub のリポジトリの作り方がよく分からないので、教えてもらいたいです。</p>
 <p>[00:49:00] フレームワークの習得のコツを教えてください。</p>
 
-<details><summary>フリータイム</summary><p></p>
+<details><summary>▼フリータイム</summary><p></p>
   
 <p>
    
@@ -69,7 +69,7 @@ ___
 <p>[00:35:58] ライブラリを選ぶときに、都合よくライブラリを比較できるような情報源はありますか？</p>
 <p>[00:45:00] 公式ドキュメントが読めるようになるヒントを教えていただきたいです。</p>
 
-<details><summary>フリータイム</summary><p></p>
+<details><summary>▼フリータイム</summary><p></p>
   
   <p>
       
@@ -86,7 +86,7 @@ ___
 [00:05:15] スマホ対応・レスポンシブデザインの話を何か聞きたいです！</p>
 <p>[00:16:10] プログラミングを使う系の仕事・アルバイトにどのような種類があるのか知りたいです！</p>
 <p>[00:38:08] Vue 入門 - TODO アプリ 10 分チャレンジ</p>
-<details><summary>[00:55:05] エンジニアの方々の日々の休憩方法を知りたいです！</summary><p></p>
+<details><summary>▼[00:55:05] エンジニアの方々の日々の休憩方法を知りたいです！</summary><p></p>
   
 <p>
     
@@ -98,7 +98,7 @@ ___
 
 </details><p></p>
 
-<details><summary>フリータイム</summary><p></p>
+<details><summary>▼フリータイム</summary><p></p>
   
 <p>
       
@@ -110,6 +110,7 @@ ___
 
 <!-- 第5回 -->
 #### [第5回 ゲスト：津野 貴大（labeneko) 先生][5]
+
 [00:01:00] 座談会の説明
 
 ##### 意見交換会
@@ -117,28 +118,28 @@ ___
   
 [00:01:50] 講師紹介</p>
 
-<details><summary>[00:07:32] 職業</summary><p></p>
+<details><summary>▼[00:07:32] 職業</summary><p></p>
 <p>1. 社会人 47.2%<br>
 2. 学生（N/S高生、N中生以外） 5.6%<br>
 3. 学生（N/S高生、N中生）  25.0%<br>
 4. その他 22.2%</p>
 </details><p></p>
 
-<details><summary>[00:12:25] プログラミング経験</summary><p></p>
+<details><summary>▼[00:12:25] プログラミング経験</summary><p></p>
 <p>1. 現役エンジニア   17.1%<br>
 2. 趣味レベルで経験あり 37.1%<br>
 3. ない（パソコン経験はある） 42.9%<br>
 4. ない（パソコン初心者） 2.9%</p>
   </details><p></p>
 
-<details><summary>[00:18:28] プログラミングの目的</summary><p></p>
+<details><summary>▼[00:18:28] プログラミングの目的</summary><p></p>
 <p>1. プログラマーになりたい 41.9%<br>
 2. プログラミングを趣味にしたい 9.7%<br>
 3. 作りたいものがある 41.9%<br>
 4. その他 6.5%</p>
 </details><p></p>
 
-<details><summary>[00:24:49] プログラミングで作りたいもの</summary><p></p>
+<details><summary>▼[00:24:49] プログラミングで作りたいもの</summary><p></p>
 1. Web サービス 56.3%<br>
 2. スマホアプリ 28.1%<br>
 3. PCゲーム 6.3%<br>
@@ -170,7 +171,7 @@ ___
 <p>
   
 [00:05:36] あなたのいいところ診断 アレンジしてみた（インスト）</p>
-<details><summary>[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.</a></summary><p></p>
+<details><summary>▼[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.</a></summary><p></p>
   <p>
     
   [00:11:09] 好きなレイアウトにしてみた（Figma の紹介）</p>
@@ -184,7 +185,7 @@ ___
   [00:38:14] セマンティック HTML</p>
 </details><p></p>
 
-<details><summary>[00:46:39] <a href="https://github.com/hakoeda/nnn_recommender">小枝先生Ver.</a></summary><p></p>
+<details><summary>▼[00:46:39] <a href="https://github.com/hakoeda/nnn_recommender">小枝先生Ver.</a></summary><p></p>
   <p>
     
   [00:46:52] プロ的ビフォーアフター</p>
@@ -199,7 +200,7 @@ ___
   [00:38:14] セマンティック HTML</p>
 </details><p></p>
 
-<details><summary>フリータイム</summary><p></p>
+<details><summary>▼フリータイム</summary><p></p>
   
 <p>
    
@@ -233,7 +234,7 @@ ___
 <p>[01:21:37] 折原先生と楽しくWebゲームアプリを作れる<a href="https://www.nnn.ed.nico/lessons/482531625">特番</a>があるらしい！？</p>
 
 
-<details><summary>なんでも質問コーナー</summary><p></p>
+<details><summary>▼なんでも質問コーナー</summary><p></p>
   
 <p>
    
@@ -258,7 +259,7 @@ ___
 <p>[00:40:17] 学生時代</p>
 <p>[00:53:12] 社会人時代</p>
 
-<details><summary>雑談タイム</summary><p></p>
+<details><summary>▼雑談タイム</summary><p></p>
   
 <p>
    
@@ -294,7 +295,7 @@ ___
 <p>[00:52:19] JSDocってどうして必要なの？</p>
 <p>[00:55:04] JSDocで「ちょっとだけ」型に触れてみよう</p>
 
-<details><summary>なんでも質問コーナー</summary><p></p>
+<details><summary>▼なんでも質問コーナー</summary><p></p>
   
 <p>
    

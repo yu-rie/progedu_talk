@@ -171,7 +171,7 @@ ___
 <p>
   
 [00:05:36] あなたのいいところ診断 アレンジしてみた（インスト）</p>
-<details><summary>▼[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.</a></summary><p></p>
+<details><summary>[00:07:21] <a href="https://github.com/yugawala/assessment-su">菅原先生Ver.</a></summary><p></p>
   <p>
     
   [00:11:09] 好きなレイアウトにしてみた（Figma の紹介）</p>
@@ -185,7 +185,7 @@ ___
 <p>[00:38:14] セマンティック HTML</p>
 </details><p></p>
 
-<details><summary>▼[00:46:39] <a href="https://github.com/hakoeda/nnn_recommender">小枝先生Ver.</a></summary><p></p>
+<details><summary>[00:46:39] <a href="https://github.com/hakoeda/nnn_recommender">小枝先生Ver.</a></summary><p></p>
   <p>
     
   [00:46:52] プロ的ビフォーアフター</p>
@@ -200,7 +200,7 @@ ___
 <p>[00:38:14] セマンティック HTML</p>
 </details><p></p>
 
-<details><summary>▼フリータイム</summary><p></p>
+<details><summary>フリータイム</summary><p></p>
   
 <p>
    
@@ -234,7 +234,7 @@ ___
 <p>[01:21:37] 折原先生と楽しくWebゲームアプリを作れる<a href="https://www.nnn.ed.nico/lessons/482531625">特番</a>があるらしい！？</p>
 
 
-<details><summary>▼なんでも質問コーナー</summary><p></p>
+<details><summary>なんでも質問コーナー</summary><p></p>
   
 <p>
    
@@ -259,7 +259,7 @@ ___
 <p>[00:40:17] 学生時代</p>
 <p>[00:53:12] 社会人時代</p>
 
-<details><summary>▼雑談タイム</summary><p></p>
+<details><summary>雑談タイム</summary><p></p>
   
 <p>
    
@@ -295,7 +295,7 @@ ___
 <p>[00:52:19] JSDocってどうして必要なの？</p>
 <p>[00:55:04] JSDocで「ちょっとだけ」型に触れてみよう</p>
 
-<details><summary>▼なんでも質問コーナー</summary><p></p>
+<details><summary>なんでも質問コーナー</summary><p></p>
   
 <p>
    

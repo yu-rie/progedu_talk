@@ -177,8 +177,8 @@ ___
     
   [00:11:09] 好きなレイアウトにしてみた（Figma の紹介）</p>
 <p>[00:12:34] ベジェ曲線・ベクター画像・SVGファイルの紹介</p>
-<p>[00:19:09] [pinterest](https://www.pinterest.jp/) の紹介</p>
-<p>[00:21:16] [Web フォント](https://fonts.google.com/)の紹介</p>
+  <p>[00:19:09] <a href="https://www.pinterest.jp/">pinterest</a> の紹介</p>
+  <p>[00:21:16] <a href="https://fonts.google.com/">Web フォント</a>の紹介</p>
 <p>[00:25:03] 権利関係の注意</p>
 <p>[00:29:25] Web フォントの追加の仕方</p>
 <p>[00:30:26] アニメーションをつけてみた</p>

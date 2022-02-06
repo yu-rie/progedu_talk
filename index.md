@@ -309,9 +309,138 @@ ___
 </details><p></p>
 
 
+___
+
+<!-- 第11回 -->
+### [第11回 ゲスト：津野 貴大（labeneko) 先生, 青木 萌(moesuke) 先生][11]
+  
+<details><summary>教材制作のアルバイトはどんなことをしているのか？</summary><p></p>
+<p>
+ 
+[00:10:54] 教材制作チームは何をしているの？</p>
+<p>[00:12:05] 教材はどうやって管理しているの？</p>
+<p>[00:23:17] どうして完成している教材を編集するの？</p>
+<p>[00:32:33] テレワークでどうやって仕事を覚えるの？</p>
+<p>[00:37:22] テレワークでコミュニケーションは取れてるの？</p>
+<p>[00:41:50] プログラミングをしていてよかったこと</p>
+</details>
+ 
+
+<details><summary>コントスト結果ページの作り方解説</summary><p></p>
+<p>
+ 
+ [00:50:31] コンテスト結果発表ページを作ろう</p>
+<p>[00:51:22] 使われいてる技術</p>
+<p>[00:52:11] ディレクトリ構成</p>
+<p>[00:54:14] こだわりが無ければテンプレを使おう</p>
+<p>[01:01:47] HTML 全体の構成</p>
+<p>[01:03:14] データの準備</p>
+<p>[01:12:47] GitHub Pages で公開して完成</p>
+
+</details>
+<p>[01:14:30] 社会人向け研修のお知らせ</p>
+<p>[01:19:20] レベルアッププログラミングの紹介</p>
+<details><summary>質問コーナー</summary><p></p>
+<p>
+   
+[01:28:45] リベースとは何ですか？</p>
+<p>[01:29:00] yarn.lock は .gitignore に入れるべき？</p>
+<p>[01:29:31] そろそろ、就職しようかとも思っていますが、入門コースを最後までやってから就業のほうが無難でしょうか？仕事をしながら4章までやるべきですか？<p>
+<p>[01:32:00] リベースとは何ですか？</p>
+</details><p></p>
 
 
-<!-- 動画 URL -->
+___
+
+<!-- 第12回 -->
+### [第12回 ゲスト：ダークプログラマー（????? ?????) 先生][12]
+
+<p>
+
+[00:05:24] N予備校生の就職実績を見てみよう</p>
+<details><summary>[00:23:17] プログラミングコースと相性の良い職業</summary><p></p>
+<p>[00:32:59] バックエンド／サーバーサイドエンジニア</p>
+<p>[00:37:10] フロントエンドエンジニア</p>
+<p>[00:51:20] スマホアプリエンジニア</p>
+<p>[00:52:50] ゲームエンジニア</p>
+<p>[00:59:27] XR エンジニア</p>
+<p>[01:22:44] インフラ／ネットワークエンジニア</p>
+<p>[01:04:24] AI エンジニア</p>
+<p>[01:08:19] クラウドエンジニア</p>
+<p>[01:122:20] データアナリスト/データサイエンティスト</p>
+<p>[01:15:49] セキュリティエンジニア</p>
+</details>
+<p>[01:22:44] N 予備校のプログラミングコースの各コースの教材を見てみよう</p>
+
+
+___
+
+<!-- 第13回 -->
+### [第13回 ゲスト：津野 貴大（labeneko) 先生][13]
+<p>
+
+[00:07:55] 今年の抱負を決めよう</p>
+<details><summary>[00:36:20] <a href="https://qiita.com/advent-calendar/2021/nyobi">N予備校アドカレを読もう！</a></summary><p></p>
+<p>[00:38:15] <a href="https://qiita.com/HelloRusk/items/073b58c1605de224e67e">VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜 (@HelloRusk さん)</a></p>
+<p>[00:43:40] <a href="https://walkdd2.blogspot.com/2021/12/n.html">N予備校のプログラミングコースの受講を続けています（感想） (@nrt0 さん)</a></p>
+<p>[00:49:05] <a href="https://qiita.com/satsukizzz/items/c2cec68c25b979731efa">チーム開発のハードルを下げる (@satsukizzz さん)</a></p>
+<p>[00:52:36] <a href="https://qiita.com/moesuke/items/c3d6a11df2f548b8f7a0">エンジニアじゃなくても、プログラミングは便利だ！(@moesuke さん)</a></p>
+<p>[00:55:35] <a href="https://penpen-dev.com/blog/nyobikou-puroguraminngu-2/">プログラミング入門コースに挑戦する人へアドバイス【N予備校】(@penpen_dev さん)</a></p>
+<p>[00:58:27] <a href="https://qiita.com/Qohey/items/e5eee4682af61762fdfe">学生がSEになるためにやってよかったこと(@Qohey さん)</a></p>
+<p>[01:00:14] <a href="https://note.com/balicpapan/n/n15e93aa5b76e">「先生もわかんないや、誰か教えて？」(@yuhkitakada さん)</a></p>
+<p>[01:01:41] <a href="https://qiita.com/oosakiken1/items/23014c70480f0dede951">人は世界とネットでつながっているのだ-インターネットが世界という概念に起こしたパラダイムシフト- (@oosakiken1 さん)</a></p>
+<p>[01:02:36] <a href="https://note.com/chikako_minimini/n/ndd8b1e5d5a4a">就職・転職に有利！「コミュニケーション能力」「礼儀・マナースキル」を高めるには○○力をきたえよう！ (@chikako2020 さん)</a></p>
+<p>[01:04:27] <a href="https://qiita.com/hakoeda/items/e4c76fec2b8f629864b3">N予備校のプログラミング座談会で1年間話したこと (@hakoeda 先生)</a></p>
+<p>[01:05:43] <a href="https://qiita.com/rabeneko/items/9c4db1a95b8bfe770b6b">Google Chromeのデベロッパーツールはとても便利 (@rabeneko 先生)</a></p>
+<p>[01:06:52] <a href="https://note.com/s_hayase/n/n2f8977b1e719">micro:bitと戯れる (@s-hayase さん)</a></p>
+<p>[01:08:41] <a href="https://qiita.com/n_oga/items/c1e17bc4f0321110d508">💪まいにちN予備写経体操💪 〜前腕反射筋は裏切らない〜 (@n_oga さん)</a></p>
+<p>[01:09:33] <a href="https://qiita.com/kenton116/items/5920e205b5567bba6640">N予備校プログラミングコースの感想（9ヶ月目） (@kenton116 さん)</a></p>
+<p>[01:11:08] <a href="https://gist.github.com/ihwka/f06cfd5f685b9c08e9c4330545b04dd6">私が本気でプログラマーを目指すまで (@ihwka さん)</a></p>
+<p>[01:15:04] <a href="https://qiita.com/D_drAAgon/items/fde85cb53bb990467daa">できる！アプリケーションコンテストの審査員 (@D_drAAgon 先生)</a></p>
+<p>[01:18:08] <a href="https://qiita.com/rabeneko/items/4a5d8195d65389ec44d6">N予備校で講師をして約1年になります (@rabeneko 先生)</a></p>
+<p>[01:16:50] <a href="https://qiita.com/yu-rie/items/00134c90f4d87c6c9141">あらためて JavaScript の配列用関数の戻り値を調べてみた (自分)</a></p>
+<p>[01:18:45] <a href="https://note.com/s_hayase/n/n7adb326ff4d6">JSとC言語を比べてみる (@s-hayase さん)</a></p>
+<p>[01:21:48] <a href="https://yellowerable.kagome-kagome.com/zakki/%E7%A7%81%E3%81%8C%E6%9C%9D%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8">IoT技術によってより確実に起床する (@BlueZhiaar さん)</a></p>
+<p>[01:23:12] <a href="https://qiita.com/fuuchin/items/2d29d51160da9f297c95">slackのエモティコンについて (@fuuchin さん)</a></p>
+<p>[01:24:00] <a href="https://qiita.com/kenton116/items/6ba6bef0ec6983093ea2">VSCodeの便利機能について (@kenton116 さん)</a></p>
+<p>[01:25:52] <a href="https://qiita.com/taigaozawa/items/b3bfc5a333fa9c706386">学生が「数式の書けるチャットアプリ」を作りました【TS/NextJS】 (@taigaozawa さん)</a></p>
+<p>[01:27:24] <a href="https://qiita.com/asazuke/items/600b023b1f064d47760b">突貫！CSS！ (@asazuke さん)</a></p>
+<p>[01:29:30] <a href="https://qiita.com/HelloRusk/items/6f4bae28d5389dea1dc1">Nintendo Switch の「スマートフォンへ送る」を支える技術 (@HelloRusk さん)</a></p>
+</details>
+ 
+___
+
+<!-- 第14回 -->
+### [第14回 ゲスト：津野 貴大（labeneko) 先生][14]
+
+<details><summary>[00:11:18] 就職活動のススメ (小枝先生のターン)</summary><p></p>
+<p>
+
+[00:11:47] 最近の IT エンジニア市場</p>
+<p>[00:26:02] ポートフォリオを作ろう</p>
+<p>[00:34:03] 面接のコツ</p>
+<p>[00:48:05] 職務経歴書の書き方</p>
+</details>
+
+<details><summary>[00:50:27] 授業で出た質問の解説 (らべねこ先生のターン)</summary><p></p>
+<p>
+
+[00:50:52] 乱数の仕組み (<a href="https://qiita.com/rabeneko/items/e7af3c81c02da5ff0318">Qiita</a>)</p>
+<p>[01:23:40] 環境変装の仕組み (<a href="https://qiita.com/rabeneko/items/40e9871ae65c2911b22d">Qiita</a>)</p>
+</details>
+
+<details><summary>[01:24:10] Let's have a chat !</summary><p></p>
+<p>
+
+[01:24:39] エンジニアの求人が都市部に集中している気がします</p>
+<p>[01:25:29] プログラミングの仕事内容の実際がよくわからないのですが、どういう感じなんでしょうか？変数名からなにからガチガチに指示があるんでしょうか？</p>
+<p>[01:28:48] Slack等で、ポートフォリオサイトを見てもらって、アドバイスもらえたらうれしいです</p>
+<p>[01:30:42] コンテスト夜通しで燃え尽き症気味です。先生たちも仕事を作り上げたらどうなりますか？</p>
+<p>[01:31:22] 自分で書いたコードを後で読む事への苦手意識が強いです/他人が作ったプログラムも修正を担当すること多いですか？</p>
+<p>[01:32:25] プログラムをAIが書いてしまって人間の仕事が無くなることはありますか？</p>
+<p>[01:33:23] AIが人間に敵対することはありますか？</p>
+</details>
+
 [1]:https://www.nnn.ed.nico/lessons/482531138
 [2]:https://www.nnn.ed.nico/lessons/482531180
 [3]:https://www.nnn.ed.nico/lessons/482531200
@@ -322,3 +451,8 @@ ___
 [8]:https://www.nnn.ed.nico/lessons/482531577
 [9]:https://www.nnn.ed.nico/lessons/482531578
 [10]:https://www.nnn.ed.nico/lessons/482531579
+[11]:https://www.nnn.ed.nico/lessons/482531580
+[12]:https://www.nnn.ed.nico/lessons/482531581
+[13]:https://www.nnn.ed.nico/lessons/482531582
+[14]:https://www.nnn.ed.nico/lessons/482531583
+

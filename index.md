@@ -337,7 +337,7 @@ ___
 <p>[01:03:14] データの準備</p>
 <p>[01:12:47] GitHub Pages で公開して完成</p>
 
-</details>
+</details><p></p>
 <p>[01:14:30] 社会人向け研修のお知らせ</p>
 <p>[01:19:20] レベルアッププログラミングの紹介</p>
 <details><summary>質問コーナー</summary><p></p>
@@ -369,7 +369,7 @@ ___
 <p>[01:08:19] クラウドエンジニア</p>
 <p>[01:122:20] データアナリスト/データサイエンティスト</p>
 <p>[01:15:49] セキュリティエンジニア</p>
-</details>
+</details><p></p>
 <p>[01:22:44] N 予備校のプログラミングコースの各コースの教材を見てみよう</p>
 
 
@@ -406,7 +406,7 @@ ___
 <p>[01:25:52] <a href="https://qiita.com/taigaozawa/items/b3bfc5a333fa9c706386">学生が「数式の書けるチャットアプリ」を作りました【TS/NextJS】 (@taigaozawa さん)</a></p>
 <p>[01:27:24] <a href="https://qiita.com/asazuke/items/600b023b1f064d47760b">突貫！CSS！ (@asazuke さん)</a></p>
 <p>[01:29:30] <a href="https://qiita.com/HelloRusk/items/6f4bae28d5389dea1dc1">Nintendo Switch の「スマートフォンへ送る」を支える技術 (@HelloRusk さん)</a></p>
-</details>
+</details><p></p>
  
 ___
 
@@ -420,14 +420,14 @@ ___
 <p>[00:26:02] ポートフォリオを作ろう</p>
 <p>[00:34:03] 面接のコツ</p>
 <p>[00:48:05] 職務経歴書の書き方</p>
-</details>
+</details><p></p>
 
 <details><summary>[00:50:27] 授業で出た質問の解説 (らべねこ先生のターン)</summary><p></p>
 <p>
 
 [00:50:52] 乱数の仕組み (<a href="https://qiita.com/rabeneko/items/e7af3c81c02da5ff0318">Qiita</a>)</p>
 <p>[01:23:40] 環境変装の仕組み (<a href="https://qiita.com/rabeneko/items/40e9871ae65c2911b22d">Qiita</a>)</p>
-</details>
+</details><p></p>
 
 <details><summary>[01:24:10] Let's have a chat !</summary><p></p>
 <p>
@@ -439,7 +439,9 @@ ___
 <p>[01:31:22] 自分で書いたコードを後で読む事への苦手意識が強いです/他人が作ったプログラムも修正を担当すること多いですか？</p>
 <p>[01:32:25] プログラムをAIが書いてしまって人間の仕事が無くなることはありますか？</p>
 <p>[01:33:23] AIが人間に敵対することはありますか？</p>
-</details>
+</details><p></p>
+
+___
 
 [1]:https://www.nnn.ed.nico/lessons/482531138
 [2]:https://www.nnn.ed.nico/lessons/482531180
